@@ -6,7 +6,7 @@ Develop a mobile application using Kotlin for Android that enables users to inte
 ## Main Screen
 <p align="center">
   <kbd>
-    <img src="https://github.com/jekeytimoy29/ChecmicalGuessingGame/blob/master/screenshots/main_screen.png"></img>
+    <img src="https://github.com/jekeytimoy29/ChemicalGuessingGame/blob/master/screenshots/main_screen.png"></img>
   </kbd>
 </p>
 
